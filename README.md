@@ -1,4 +1,4 @@
-# PR_1-Fundamental-Booster-
+# PR_1-Fundamental-Booster
 
 # 📂 Project Name: Interactive Personal Data Collector
 **LMS Project-1: Fundamental Booster**
@@ -45,3 +45,20 @@ The project is completely built using native Python tools and requires no heavy 
 
 ##📷 5. Project Execution Output (Screenshots)
 Below are the visual outputs showing the complete working execution flow of the interactive program:
+
+Input Flow & Initial Variable Analysis
+Data Type Transformations & Summary Table View
+
+
+🎓 6. Core Concepts Explored
+Through this project, the following foundational programming concepts were successfully mastered:
+
+Dynamic user interactive handling using input() and console responses.
+
+Handling numbers and text through String, Integer, and Float data types.
+
+Basic and combined arithmetic operators (+, -, *).
+
+Visual profiling of memory structure using the built-in id() function.
+
+Explicit variable casting and type mutation rules.
