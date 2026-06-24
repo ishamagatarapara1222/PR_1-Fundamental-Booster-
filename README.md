@@ -46,8 +46,11 @@ The project is completely built using native Python tools and requires no heavy 
 ##📷 5. Project Execution Output (Screenshots)
 Below are the visual outputs showing the complete working execution flow of the interactive program:
 
-Input Flow & Initial Variable Analysis
-Data Type Transformations & Summary Table View
+### Input Flow & Initial Variable Analysis
+![Input Flow and Calculations](Screenshot%20(108).png)
+
+### Data Type Transformations & Summary Table View
+![Type Conversions and Summary Table](Screenshot%20(109).png)
 
 
 🎓 6. Core Concepts Explored
