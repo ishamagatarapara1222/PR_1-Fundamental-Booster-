@@ -42,3 +42,6 @@ The project is completely built using native Python tools and requires no heavy 
 3. Run the script using the following command:
    ```bash
    python program.py
+
+##📷 5. Project Execution Output (Screenshots)
+Below are the visual outputs showing the complete working execution flow of the interactive program:
